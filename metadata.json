@@ -1,0 +1,6 @@
+{
+  "name": "Saidi Commandos",
+  "description": "A 2.5D isometric tactical stealth web game set in an Upper Egyptian village, built with Three.js, React, and TypeScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
